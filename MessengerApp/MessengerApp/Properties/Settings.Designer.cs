@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MessangerApp.Properties
+namespace MessengerApp.Properties
 {
 
 

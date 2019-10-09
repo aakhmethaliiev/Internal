@@ -1,7 +1,7 @@
-﻿<Application x:Class="MessangerApp.App"
+﻿<Application x:Class="MessengerApp.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:MessangerApp"
+             xmlns:local="clr-namespace:MessengerApp"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
