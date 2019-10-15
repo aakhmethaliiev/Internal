@@ -1,0 +1,5 @@
+D:\Work\Internal\MessengerApp\Contracts\bin\Debug\Contracts.dll
+D:\Work\Internal\MessengerApp\Contracts\bin\Debug\Contracts.pdb
+D:\Work\Internal\MessengerApp\Contracts\obj\Debug\Contracts.dll
+D:\Work\Internal\MessengerApp\Contracts\obj\Debug\Contracts.pdb
+D:\Work\Internal\MessengerApp\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
