@@ -1,0 +1,13 @@
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\MessengerAppTest.dll
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\MessengerAppTest.pdb
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Work\Internal\MessengerApp\MessengerAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Work\Internal\MessengerApp\MessengerAppTest\obj\Debug\MessengerAppTest.csprojAssemblyReference.cache
+D:\Work\Internal\MessengerApp\MessengerAppTest\obj\Debug\MessengerAppTest.csproj.CopyComplete
+D:\Work\Internal\MessengerApp\MessengerAppTest\obj\Debug\MessengerAppTest.dll
+D:\Work\Internal\MessengerApp\MessengerAppTest\obj\Debug\MessengerAppTest.pdb

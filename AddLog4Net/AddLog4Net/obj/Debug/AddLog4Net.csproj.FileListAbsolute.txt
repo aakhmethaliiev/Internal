@@ -1,0 +1,9 @@
+D:\Work\Internal\AddLog4Net\AddLog4Net\bin\Debug\AddLog4Net.exe.config
+D:\Work\Internal\AddLog4Net\AddLog4Net\bin\Debug\AddLog4Net.exe
+D:\Work\Internal\AddLog4Net\AddLog4Net\bin\Debug\AddLog4Net.pdb
+D:\Work\Internal\AddLog4Net\AddLog4Net\bin\Debug\log4net.dll
+D:\Work\Internal\AddLog4Net\AddLog4Net\bin\Debug\log4net.xml
+D:\Work\Internal\AddLog4Net\AddLog4Net\obj\Debug\AddLog4Net.csprojAssemblyReference.cache
+D:\Work\Internal\AddLog4Net\AddLog4Net\obj\Debug\AddLog4Net.csproj.CopyComplete
+D:\Work\Internal\AddLog4Net\AddLog4Net\obj\Debug\AddLog4Net.exe
+D:\Work\Internal\AddLog4Net\AddLog4Net\obj\Debug\AddLog4Net.pdb
