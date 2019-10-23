@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\Work\Internal\MessengerApp\Module\obj\Debug\
+D:\Work\Internal\MessengerApp(failedV2)\Module\obj\Debug\
 Module
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 21271678454
 
-7-1961824482
-1272011307271
+8-1657340110
+1271533566395
 Views\FirstView.xaml;Views\SecondView.xaml;
 
 False

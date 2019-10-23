@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Work\Internal\MessengerApp\Shell\obj\Debug\
+D:\Work\Internal\MessengerApp(failedV2)\Shell\obj\Debug\
 Shell
 none
 false
 DEBUG;TRACE
-D:\Work\Internal\MessengerApp\Shell\App.xaml
+D:\Work\Internal\MessengerApp(failedV2)\Shell\App.xaml
 2901202249
 
-1112054396
-1272011307271
+12316538768
+1271533566395
 MainWindow.xaml;Views\ShellView.xaml;
 
-False
+True
 

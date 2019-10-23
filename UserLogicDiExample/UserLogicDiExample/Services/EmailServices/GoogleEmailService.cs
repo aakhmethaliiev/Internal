@@ -6,7 +6,7 @@ namespace UserLogicDiExample.Services.EmailServices
     {
         public void SendMail(string emailAddress, string message)
         {
-            Console.WriteLine("\nSend message using Outlook");
+            Console.WriteLine("\nSent message using Outlook");
         }
     }
 }
