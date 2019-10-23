@@ -1,0 +1,6 @@
+D:\Work\Internal\WCF\MathService\MathService\bin\Debug\MathService.dll.config
+D:\Work\Internal\WCF\MathService\MathService\bin\Debug\MathService.dll
+D:\Work\Internal\WCF\MathService\MathService\bin\Debug\MathService.pdb
+D:\Work\Internal\WCF\MathService\MathService\obj\Debug\MathService.csprojAssemblyReference.cache
+D:\Work\Internal\WCF\MathService\MathService\obj\Debug\MathService.dll
+D:\Work\Internal\WCF\MathService\MathService\obj\Debug\MathService.pdb
