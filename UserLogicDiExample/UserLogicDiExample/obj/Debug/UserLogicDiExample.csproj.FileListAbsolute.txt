@@ -1,0 +1,9 @@
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\bin\Debug\UserLogicDiExample.exe.config
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\bin\Debug\UserLogicDiExample.exe
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\bin\Debug\UserLogicDiExample.pdb
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\bin\Debug\Common.dll
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\bin\Debug\Common.pdb
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\obj\Debug\UserLogicDiExample.csprojAssemblyReference.cache
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\obj\Debug\UserLogicDiExample.csproj.CopyComplete
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\obj\Debug\UserLogicDiExample.exe
+D:\Work\Internal\UserLogicDiExample\UserLogicDiExample\obj\Debug\UserLogicDiExample.pdb
