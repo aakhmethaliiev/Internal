@@ -1,6 +1,14 @@
-﻿namespace WpfMessengerApp.ViewModel
+﻿using WpfMessengerApp.Services;
+
+namespace WpfMessengerApp.ViewModel
 {
-    class MainWindowViewModel
+    public class MainWindowViewModel
     {
+        public MainWindowViewModel()
+        {
+            LocalizationService = new MainLocalizationService();
+        }
+
+        public IMainLocalizationService LocalizationService { get; set; }
     }
 }
