@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WpfMessengerApp"
         mc:Ignorable="d"
         xmlns:vm="clr-namespace:WpfMessengerApp.ViewModel"
-        Title="{Binding LocalizationService.MainTitle}" Height="450" Width="800">
+        Title="{Binding LocalizationService.MainTitle}" Height="470.625" Width="800">
     <Window.DataContext>
         <vm:MainWindowViewModel/>
     </Window.DataContext>
@@ -23,7 +23,8 @@
                          ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
         </Grid>
             </Border>
-            <Grid MinHeight="70" MaxHeight="70">
+        <Border Padding="10">
+                <Grid MinHeight="70" MaxHeight="70">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="3*"/>
                 <ColumnDefinition Width="*"/>
@@ -32,6 +33,7 @@
             <TextBox Text="{}"  TextWrapping="Wrap" AcceptsReturn="True" Grid.Column="0" 
                      ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
         </Grid>
+        </Border>
         </StackPanel>
     </Border>
 </Window>
